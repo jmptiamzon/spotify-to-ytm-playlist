@@ -1,16 +1,16 @@
 # USAGE
 
-Install ytmusicapi__
-**pip install ytmusicapi**__
+Install ytmusicapi<br />
+**pip install ytmusicapi**<br /><br />
 
-Install dotenv__
-**pip install dotenv**__
+Install dotenv<br />
+**pip install dotenv**<br /><br />
 
-Install  requests__
-**pip install requests**__
+Install  requests<br />
+**pip install requests**<br /><br />
 
-Create a project on **developer.spotify.com**__
-Setup **.env** file with your **CLIENT_ID** and **CLIENT_SECRET** from developer.spotify.com__
-Setup **oauth.json** by using the command **ytmusicapi oauth** then just login your account.__
+Create a project on **developer.spotify.com**<br />
+Setup **.env** file with your **CLIENT_ID** and **CLIENT_SECRET** from developer.spotify.com<br />
+Setup **oauth.json** by using the command **ytmusicapi oauth** then just login your account.<br /><br />
 
 **Run the python program**
